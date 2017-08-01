@@ -1,0 +1,22 @@
+{
+  "name": "person-class",
+  "version": "1.0.0",
+  "description": "This demostrates a real world application of object oriented programming in Javascript",
+  "main": "src/person.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "OOP",
+    "Polymorphism"
+  ],
+  "author": "Balogun Abiodun D.",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  }
+}
