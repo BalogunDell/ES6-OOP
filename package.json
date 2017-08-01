@@ -1,7 +1,7 @@
 {
   "name": "person-class",
   "version": "1.0.0",
-  "description": "This demostrates a real world application of object oriented programming in Javascript",
+  "description": "This demostrates a real world application of object oriented programming in Javascript using ES6",
   "main": "src/person.js",
   "directories": {
     "test": "test"
